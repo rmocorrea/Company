@@ -1,0 +1,11 @@
+C:\Users\silva\Documents\Course\Rmo\Rmo\bin\Debug\netcoreapp3.0\Rmo.exe
+C:\Users\silva\Documents\Course\Rmo\Rmo\bin\Debug\netcoreapp3.0\Rmo.deps.json
+C:\Users\silva\Documents\Course\Rmo\Rmo\bin\Debug\netcoreapp3.0\Rmo.runtimeconfig.json
+C:\Users\silva\Documents\Course\Rmo\Rmo\bin\Debug\netcoreapp3.0\Rmo.runtimeconfig.dev.json
+C:\Users\silva\Documents\Course\Rmo\Rmo\bin\Debug\netcoreapp3.0\Rmo.dll
+C:\Users\silva\Documents\Course\Rmo\Rmo\bin\Debug\netcoreapp3.0\Rmo.pdb
+C:\Users\silva\Documents\Course\Rmo\Rmo\obj\Debug\netcoreapp3.0\Rmo.csprojAssemblyReference.cache
+C:\Users\silva\Documents\Course\Rmo\Rmo\obj\Debug\netcoreapp3.0\Rmo.AssemblyInfoInputs.cache
+C:\Users\silva\Documents\Course\Rmo\Rmo\obj\Debug\netcoreapp3.0\Rmo.AssemblyInfo.cs
+C:\Users\silva\Documents\Course\Rmo\Rmo\obj\Debug\netcoreapp3.0\Rmo.dll
+C:\Users\silva\Documents\Course\Rmo\Rmo\obj\Debug\netcoreapp3.0\Rmo.pdb
